@@ -36,6 +36,7 @@ public class Transfer {
 		
 		System.out.println("How much do you wish to Transfer?");
 		withdraw = Double.parseDouble(scan.nextLine());
+		deposit = withdraw;
 		check = serv.Withdraw(a, withdraw);
 		if (check) {
 			serv.Deposit(a2, deposit);

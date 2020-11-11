@@ -71,3 +71,29 @@
 2020-11-11 05:41:10 INFO  UserDAOImpl:62 - Succeeded to get All Users
 2020-11-11 05:41:59 INFO  UserDAOImpl:150 - null has logged in
 2020-11-11 05:42:06 INFO  UserDAOImpl:150 - username2 has logged in
+2020-11-11 10:35:21 INFO  UserDAOImpl:122 - Succeeded to get User By username
+2020-11-11 10:35:29 INFO  UserDAOImpl:172 - username4has registered
+2020-11-11 10:35:29 INFO  UserDAOImpl:122 - Succeeded to get User By username
+2020-11-11 10:35:38 INFO  UserDAOImpl:150 - username has logged in
+2020-11-11 10:35:39 INFO  UserDAOImpl:62 - Succeeded to get All Users
+2020-11-11 11:30:47 INFO  UserDAOImpl:150 - username has logged in
+2020-11-11 11:31:07 INFO  UserDAOImpl:150 - username has logged in
+2020-11-11 12:13:07 INFO  UserDAOImpl:150 - username has logged in
+2020-11-11 12:13:13 INFO  UserDAOImpl:62 - Succeeded to get All Users
+2020-11-11 12:13:30 INFO  Withdraw:31 - Withdrawn: 100.0
+2020-11-11 12:13:45 INFO  Deposit:31 - Deposited: 200.0
+2020-11-11 12:14:01 INFO  Transfer:42 - Transfered: 99.0 from accountID: 1 to accountID: 2
+2020-11-11 12:14:59 INFO  UserDAOImpl:62 - Succeeded to get All Users
+2020-11-11 12:15:13 INFO  UserDAOImpl:122 - Succeeded to get User By username
+2020-11-11 12:15:31 INFO  UserDAOImpl:62 - Succeeded to get All Users
+2020-11-11 12:15:46 INFO  UserDAOImpl:122 - Succeeded to get User By username
+2020-11-11 12:15:54 INFO  UserDAOImpl:172 - username5has registered
+2020-11-11 12:15:55 INFO  UserDAOImpl:122 - Succeeded to get User By username
+2020-11-11 12:16:08 INFO  UserDAOImpl:122 - Succeeded to get User By username
+2020-11-11 12:16:31 INFO  UserDAOImpl:150 - username2 has logged in
+2020-11-11 12:16:35 INFO  UserDAOImpl:62 - Succeeded to get All Users
+2020-11-11 12:26:55 INFO  UserDAOImpl:150 - username has logged in
+2020-11-11 12:27:06 INFO  Transfer:42 - Transfered: 1231.0 from accountID: 1 to accountID: 2
+2020-11-11 12:28:37 INFO  UserDAOImpl:150 - username has logged in
+2020-11-11 12:29:11 INFO  Deposit:31 - Deposited: 1231.0
+2020-11-11 12:29:28 INFO  Transfer:43 - Transfered: 99.0 from accountID: 1 to accountID: 2
