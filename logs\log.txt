@@ -1,0 +1,73 @@
+2020-11-09 16:36:42 INFO  UserDAOImpl:64 - Succeeded to get All Users
+2020-11-09 16:37:32 INFO  UserDAOImpl:64 - Succeeded to get All Users
+2020-11-09 16:38:24 INFO  UserDAOImpl:64 - Succeeded to get All Users
+2020-11-09 19:14:03 INFO  UserDAOImpl:152 - usernamehas logged in
+2020-11-09 19:14:18 INFO  Transfer:28 - Withdrawn: 1.0
+2020-11-09 19:14:24 INFO  Transfer:28 - Deposited: 1.0
+2020-11-09 19:23:18 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 19:43:34 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:05:57 INFO  UserDAOImpl:152 - null has logged in
+2020-11-09 21:06:09 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:06:13 INFO  UserDAOImpl:64 - Succeeded to get All Users
+2020-11-09 21:06:28 INFO  Transfer:37 - Transfered: 100.0 from accountID: 1 to accountID: 1
+2020-11-09 21:09:47 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:11:42 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:13:25 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:14:21 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:24:33 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:33:27 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:33:36 INFO  Transfer:28 - Withdrawn: 1.0
+2020-11-09 21:33:47 INFO  Transfer:28 - Deposited: 3.0
+2020-11-09 21:33:58 INFO  Transfer:37 - Transfered: 1.0 from accountID: 1 to accountID: 1
+2020-11-09 21:38:47 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:39:24 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:50:19 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:50:34 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:50:58 INFO  Transfer:37 - Transfered: 0.0 from accountID: 1 to accountID: 1
+2020-11-09 21:51:55 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:52:34 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:54:35 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:57:42 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 21:59:08 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 22:00:14 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 22:00:41 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 22:01:09 INFO  Transfer:42 - Transfered: 0.0 from accountID: 1 to accountID: 1
+2020-11-09 22:02:57 INFO  UserDAOImpl:124 - Succeeded to get User By username
+2020-11-09 22:03:02 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 22:04:19 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 22:04:44 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 22:05:19 INFO  UserDAOImpl:152 - username has logged in
+2020-11-09 22:05:51 INFO  Transfer:43 - Transfered: 0.0 from accountID: 1 to accountID: 1
+2020-11-09 22:06:02 INFO  UserDAOImpl:152 - username has logged in
+2020-11-10 16:35:28 INFO  UserDAOImpl:152 - username has logged in
+2020-11-10 16:35:36 INFO  UserDAOImpl:64 - Succeeded to get All Users
+2020-11-10 16:36:08 INFO  Withdraw:28 - Withdrawn: 1.0
+2020-11-10 16:36:18 INFO  Deposit:28 - Deposited: 1.0
+2020-11-10 16:36:44 INFO  Transfer:42 - Transfered: 1.0 from accountID: 1 to accountID: 1
+2020-11-10 17:48:29 INFO  UserDAOImpl:124 - Succeeded to get User By username
+2020-11-11 05:09:19 INFO  UserDAOImpl:152 - username has logged in
+2020-11-11 05:11:20 INFO  UserDAOImpl:152 - username has logged in
+2020-11-11 05:11:38 INFO  UserDAOImpl:152 - username has logged in
+2020-11-11 05:15:42 INFO  UserDAOImpl:152 - username has logged in
+2020-11-11 05:15:53 INFO  UserDAOImpl:152 - username has logged in
+2020-11-11 05:16:24 INFO  UserDAOImpl:152 - username has logged in
+2020-11-11 05:17:02 INFO  UserDAOImpl:152 - username has logged in
+2020-11-11 05:17:31 INFO  UserDAOImpl:152 - username has logged in
+2020-11-11 05:19:06 INFO  UserDAOImpl:152 - username has logged in
+2020-11-11 05:21:11 INFO  UserDAOImpl:152 - username2 has logged in
+2020-11-11 05:21:14 INFO  UserDAOImpl:64 - Succeeded to get All Users
+2020-11-11 05:25:43 INFO  UserDAOImpl:150 - username3 has logged in
+2020-11-11 05:25:52 INFO  UserDAOImpl:122 - Succeeded to get User By username
+2020-11-11 05:25:57 INFO  UserDAOImpl:194 - username3's profile has been updated
+2020-11-11 05:38:06 INFO  UserDAOImpl:150 - username3 has logged in
+2020-11-11 05:38:08 INFO  UserDAOImpl:122 - Succeeded to get User By username
+2020-11-11 05:38:11 INFO  UserDAOImpl:122 - Succeeded to get User By username
+2020-11-11 05:38:19 INFO  UserDAOImpl:194 - username3's profile has been updated
+2020-11-11 05:38:19 INFO  UserDAOImpl:122 - Succeeded to get User By username
+2020-11-11 05:39:20 INFO  UserDAOImpl:150 - username has logged in
+2020-11-11 05:39:22 INFO  UserDAOImpl:62 - Succeeded to get All Users
+2020-11-11 05:40:50 INFO  UserDAOImpl:62 - Succeeded to get All Users
+2020-11-11 05:41:04 INFO  UserDAOImpl:150 - username2 has logged in
+2020-11-11 05:41:10 INFO  UserDAOImpl:62 - Succeeded to get All Users
+2020-11-11 05:41:59 INFO  UserDAOImpl:150 - null has logged in
+2020-11-11 05:42:06 INFO  UserDAOImpl:150 - username2 has logged in
